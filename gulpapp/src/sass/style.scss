@@ -1,0 +1,10 @@
+$bgColor:#cccccc;
+body{
+	background:$bgColor;
+}
+$color:#fff;
+$textAlign:center;
+h1{
+	color:$color;
+	text-align:$textAlign;
+}
